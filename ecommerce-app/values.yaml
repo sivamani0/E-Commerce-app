@@ -8,8 +8,8 @@ appDeployment:
  name: ecommerce-conatiner
 
 image:
- repository: sivamani07/ecommerce
- tag: v1.0.0
+ repository: sivamani07/ecommerce-app
+ tag: latest
 port: 80
 
 appService:

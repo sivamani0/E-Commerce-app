@@ -16,6 +16,6 @@ spec:
     spec:
       containers: 
       - name: vegitable-app
-        image: sivamani07/ecommerce-app:v1.0.0
+        image: sivamani07/ecommerce-app:latest
         ports:
         - containerPort: 80
